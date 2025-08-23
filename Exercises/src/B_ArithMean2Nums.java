@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class B_ArithMean {
+public class B_ArithMean2Nums {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
