@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class F_ParOuImpar {
-    private Scanner sc;
+    private final Scanner sc;
 
     public F_ParOuImpar() {
         sc = new Scanner(System.in);
