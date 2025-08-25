@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class D_GeoMean {
+public class D_MediaGeometrica3Nums {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 

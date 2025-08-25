@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class E_BodyMassIndex {
+public class E_CalculoIMC {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

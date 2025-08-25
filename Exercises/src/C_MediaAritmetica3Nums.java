@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class C_ArithMean3Nums {
+public class C_MediaAritmetica3Nums {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 

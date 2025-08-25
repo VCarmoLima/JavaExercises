@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class B_ArithMean2Nums {
+public class B_MediaAritmetica2Nums {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
