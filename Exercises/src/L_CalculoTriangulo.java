@@ -19,6 +19,7 @@ public class L_CalculoTriangulo {
         System.out.printf("O perímetro do triângulo é: %s%n", perimetro);
         System.out.printf("A área do triângulo é: %s%n", area);
 
+
         sc.close();
     }
 }
