@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class I_AreaCirculo {
+public class G_AreaCirculo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

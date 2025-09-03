@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class J_CalculoDelta {
+public class H_CalculoDelta {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
